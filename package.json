@@ -1,11 +1,11 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "private": true,
+"private":true,
   "dependencies": {
-    "express": "*",
-    "mongodb": "*",
-    "moment":"*",
-    "lodash":"*"
+    "express":"*",
+  	"mongodb": "*",
+    "moment"  : "*",
+    "nodemailer":"^1.3.0"
   }
 }
